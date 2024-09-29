@@ -1,4 +1,4 @@
-# Music Downloader
+# YouTube Music Downloader
 
 This Python code allows you to search for music tracks on YouTube and download them in high-quality audio-only format using `yt-dlp` and `youtubesearchpython` libraries. It is intended to be a simple way to automate the downloading of audio tracks based on text input.
 
